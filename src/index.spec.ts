@@ -19,6 +19,10 @@ it("Should create Training", function() {
   const comment: string = "";
   const idGenerator = (): string => "fb4122e3-71d9-4d28-8c14-50a090c99de4";
 
+  const trainingPlan = {
+    save: jest.fn()
+  };
+
 
   const training: Training = {
     id: "fb4122e3-71d9-4d28-8c14-50a090c99de4",
@@ -28,5 +32,6 @@ it("Should create Training", function() {
   };
 
 
-  expect(createTraining(idGenerator, core, day, comment)).toEqual(training);
+  expect(createTraining(idGenerator, core, day, comment, trainingPlan)).toEqual(training);
+  expect(trainingPlan.save).toHaveBeenCalledWith(training);
 });

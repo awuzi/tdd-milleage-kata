@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18b56ecb-ac9c-4455-adaf-5dc9c7942ff9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607946286728</updated>
       <workItem from="1607946287855" duration="22000" />
-      <workItem from="1607946332943" duration="11193000" />
+      <workItem from="1607946332943" duration="14124000" />
     </task>
     <servers />
   </component>
@@ -108,22 +100,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1607953806198" />
-    <state width="1495" height="299" key="GridCell.Tab.0.bottom" timestamp="1607957250341">
+    <state width="1495" height="299" key="GridCell.Tab.0.bottom" timestamp="1607960937130">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1495" height="299" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607957250341" />
-    <state width="1495" height="299" key="GridCell.Tab.0.center" timestamp="1607957250341">
+    <state width="1495" height="299" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607960937130" />
+    <state width="1495" height="299" key="GridCell.Tab.0.center" timestamp="1607960937130">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1495" height="299" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607957250341" />
-    <state width="1495" height="299" key="GridCell.Tab.0.left" timestamp="1607957250341">
+    <state width="1495" height="299" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607960937130" />
+    <state width="1495" height="299" key="GridCell.Tab.0.left" timestamp="1607960937130">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1495" height="299" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607957250341" />
-    <state width="1495" height="299" key="GridCell.Tab.0.right" timestamp="1607957250341">
+    <state width="1495" height="299" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607960937130" />
+    <state width="1495" height="299" key="GridCell.Tab.0.right" timestamp="1607960937130">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1495" height="299" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607957250341" />
+    <state width="1495" height="299" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607960937130" />
     <state x="277" y="78" key="SettingsEditor" timestamp="1607946309251">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -132,5 +124,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1607946362743" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1607958204759">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1607958204759" />
   </component>
 </project>

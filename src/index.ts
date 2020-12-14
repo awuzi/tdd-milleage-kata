@@ -34,16 +34,27 @@ export interface Speed extends Metric {
 
 type IdGenerator = () => string;
 
+interface TrainingPlan {
+  save: (training: Training) => void;
+}
+
 export function createTraining(
   idGenerator: IdGenerator,
   core: CoreTraining,
   day: Date,
-  comment: string
+  comment: string,
+  trainingPlan: TrainingPlan
 ): Training {
-  return {
+
+
+  const training = {
     id: idGenerator(),
     core,
     day,
     comment
   };
+
+  trainingPlan.save(training);
+
+  return training;
 }
